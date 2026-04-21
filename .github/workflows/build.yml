@@ -744,3 +744,4 @@ jobs:
         with:
           name: CaMix
           path: app/build/outputs/apk/debug/app-debug.apk
+          
